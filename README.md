@@ -1,4 +1,7 @@
 
-https://reactjs.org/tutorial/tutorial.html
+[Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
 
-https://fettblog.eu/typescript-react-component-patterns/
+[TypeScript + React: Component patterns](https://fettblog.eu/typescript-react-component-patterns/)
+
+[Reactの環境構築](https://future-architect.github.io/typescript-guide/react.html)
+
