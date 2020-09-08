@@ -1,6 +1,32 @@
+## メモ
+
 https://qiita.com/rspmharada7645/items/25c496aee87973bcc7a5
 
 を参考に作業
+
+
+create-react-appとは？
+https://github.com/facebook/create-react-app
+
+
+react-scripts とは？
+https://github.com/facebook/create-react-app#readme
+
+
+
+
+
+## useState
+react ライブラリ
+状態を保持できる
+
+https://sbfl.net/blog/2019/02/09/react-hooks-usestate/
+
+```
+import React, { useState } from 'react';
+```
+
+
 
 ---
 
